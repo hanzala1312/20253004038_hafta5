@@ -2,7 +2,7 @@
 
 Bu proje, İleri Python Programlama dersi 5. hafta laboratuvar ödevini içermektedir. Mevcut metin tabanlı uzay oyunu projesine, Python'ın güçlü özelliklerinden olan **dekoratörler (decorators)** kullanılarak yeni yetenekler eklenmiştir.
 
-## 🚀 Proje İçeriği ve Görevler
+## Proje İçeriği ve Görevler
 
 Bu ödev kapsamında aşağıdaki dekoratörler geliştirilmiştir:
 
